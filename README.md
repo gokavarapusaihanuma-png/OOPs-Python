@@ -1,89 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>OOPs in Python</title>
-</head>
-<body>
+# OOPs in Python 🐍
 
-<h1>Object-Oriented Programming (OOP) in Python 🐍</h1>
+This repository contains my Python programs while learning **Object-Oriented Programming (OOP)**.
+I created this repo to practice concepts, write small tasks, and improve my understanding of OOP
+for coding interviews.
 
-<p>
-This repository contains my learning materials, practice programs, and tasks related to
-<strong>Object-Oriented Programming (OOP)</strong> concepts in Python.
-It is created as part of my academic and exam preparation to build strong fundamentals
-through hands-on coding.
-</p>
+All programs are written while learning step by step, so this repo also shows my progress.
 
-<hr>
+---
 
-<h2>📌 Topics Covered</h2>
-<ul>
-    <li>Classes and Objects</li>
-    <li>Constructors (<code>__init__</code>)</li>
-    <li>Instance Variables and Class Variables</li>
-    <li>Methods and Self Keyword</li>
-    <li>Inheritance</li>
-    <li>Polymorphism</li>
-    <li>Encapsulation</li>
-    <li>Abstraction</li>
-    <li>Method Overriding and Overloading</li>
-</ul>
+## 📌 Topics Covered
 
-<hr>
+- Classes and Objects  
+- Constructors (`__init__`)  
+- Instance and Class Variables  
+- Methods and `self` keyword  
+- Inheritance  
+- Polymorphism  
+- Encapsulation  
+- Abstraction  
 
-<h2>📂 Repository Structure</h2>
-<pre>
-OOPs-Python/
-│
-├── classes_objects/
-├── constructors/
-├── inheritance/
-├── polymorphism/
-├── abstraction/
-├── encapsulation/
-└── practice_tasks/
-</pre>
+---
 
-<hr>
+---
 
-<h2>🎯 Purpose of This Repository</h2>
-<ul>
-    <li>Understand core OOP principles in Python</li>
-    <li>Practice concept-wise Python programs</li>
-    <li>Prepare for exams and technical interviews</li>
-    <li>Improve coding skills using real examples</li>
-</ul>
+## 🎯 Purpose of This Repository
 
-<hr>
+- To clearly understand OOP concepts in Python  
+- To practice programs for college exams  
+- To improve problem-solving using OOP  
+- To maintain my learning on GitHub  
 
-<h2>🛠 Technologies Used</h2>
-<ul>
-    <li>Python 3</li>
-    <li>Object-Oriented Programming Concepts</li>
-</ul>
+---
 
-<hr>
+## 🛠 Tools Used
 
-<h2>📖 How to Use</h2>
-<ol>
-    <li>Clone the repository</li>
-    <li>Navigate to any topic folder</li>
-    <li>Run the Python files to understand the concepts</li>
-    <li>Modify and experiment with the code</li>
-</ol>
+- Python 3
+- VS Code / Any Python IDE
 
-<hr>
+---
 
-<h2>📌 Note</h2>
-<p>
-This repository is created for learning and practice purposes.
-More examples and tasks will be added as I continue learning.
-</p>
+## 📖 How to Use
 
-<hr>
+1. Open any topic folder  
+2. Read the Python file  
+3. Run the code  
+4. Modify it and try your own examples  
 
-<p><strong>Happy Coding! 🚀</strong></p>
+---
 
-</body>
-</html>
+## 📌 Note
+
+This repository is for learning and practice.
+More programs will be added as I continue learning OOP in Python.
+
+
